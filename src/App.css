@@ -1,0 +1,12 @@
+.menu{
+  font-size: medium;
+  font-weight: bold;
+}
+
+.menu a{
+  transition: ease-in 0.1s;
+}
+
+.menu a:hover{
+  background-color: rgb(73, 70, 70);
+}

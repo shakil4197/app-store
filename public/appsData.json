@@ -1,0 +1,752 @@
+[
+  {
+    "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c",
+    "title": "FitPulse Workout Tracker",
+    "companyName": "HealthTech Inc.",
+    "id": 1,
+    "description": "FitPulse Workout Tracker is your all-in-one fitness companion designed to help you build lasting healthy habits, whether you're a complete beginner or a seasoned athlete. The app offers a comprehensive library of over 500 guided exercises, each accompanied by HD video demonstrations, step-by-step form instructions, and customizable difficulty levels so you can train safely and effectively. Choose from dozens of pre-built workout programs tailored to your goals — weight loss, muscle gain, endurance, flexibility, or general wellness — or create your own custom routines from scratch using the drag-and-drop workout builder.\n\nTrack every aspect of your fitness journey with precision. Log your sets, reps, weights, distance, and duration, and watch your progress unfold through beautiful charts and weekly reports. FitPulse syncs seamlessly with popular wearables and health platforms, including Apple Health, Google Fit, Fitbit, and Garmin, so all your activity data lives in one place. The built-in rest timer, heart-rate zone monitor, and calorie estimator keep you focused during every session.\n\nStay motivated with daily streaks, achievement badges, personal records, and friendly challenges against friends or the global community. Smart reminders adapt to your schedule and nudge you when it's time to move. Nutrition tracking, water intake logs, and sleep insights round out the experience, giving you a complete picture of your health. Whether you work out at home, in a gym, or outdoors, FitPulse adapts to your lifestyle and grows with you every step of the way.",
+    "size": 45.5,
+    "reviews": 1250,
+    "ratingAvg": 4.6,
+    "downloads": 50000,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 350 },
+      { "name": "5 star", "count": 750 }
+    ],
+    "comments": [
+      { "user": "Jake M.", "rating": 5, "text": "Best fitness app I've ever used. The video demos are super clear and the custom workout builder is a game changer." },
+      { "user": "Priya S.", "rating": 4, "text": "Love the variety of programs. Only wish the rest timer had a louder alarm sound." },
+      { "user": "Carlos R.", "rating": 5, "text": "Synced perfectly with my Fitbit. Lost 12 pounds in two months following one of the beginner programs!" },
+      { "user": "Emily T.", "rating": 3, "text": "Good app overall but some of the advanced exercises lack detailed form tips. Needs more content." },
+      { "user": "David K.", "rating": 5, "text": "The streak system keeps me accountable. I've worked out 47 days in a row thanks to this app." }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71",
+    "title": "Zenith Task Manager",
+    "companyName": "Productivity Labs",
+    "id": 2,
+    "description": "Zenith Task Manager is a next-generation productivity platform built for professionals, students, and anyone who wants to take control of their time. At its core is a powerful AI prioritization engine that analyzes your deadlines, workload, energy patterns, and personal habits to automatically surface the tasks that matter most right now. Instead of staring at an overwhelming to-do list, you get a clear, focused daily agenda that tells you exactly what to work on next.\n\nOrganize your life with projects, tags, subtasks, and custom workflows. Break large goals into manageable milestones and track progress visually with Kanban boards, calendar views, and timeline charts. Zenith supports natural language input — simply type \"submit report next Friday at 3pm\" and it schedules everything automatically. Recurring tasks, dependencies, and smart reminders ensure nothing slips through the cracks.\n\nCollaboration is built in. Share projects with teammates, assign tasks, leave comments, and see real-time updates across all your devices. Integrations with Google Calendar, Slack, Notion, Outlook, and Zapier make Zenith the central hub of your workflow. The app also includes a Pomodoro-style focus timer, daily review prompts, and weekly productivity reports that help you understand where your time actually goes.\n\nWith end-to-end encryption, offline mode, and cross-platform sync, Zenith works wherever you do. Whether you're managing a complex team project or just trying to stay on top of household chores, Zenith brings clarity, calm, and control to your day.",
+    "size": 32.1,
+    "reviews": 840,
+    "ratingAvg": 4.3,
+    "downloads": 25000,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 90 },
+      { "name": "4 star", "count": 280 },
+      { "name": "5 star", "count": 400 }
+    ],
+    "comments": [
+      { "user": "Sarah L.", "rating": 5, "text": "The AI prioritization is scary good. It always knows what I should be doing. My productivity has doubled." },
+      { "user": "Tom W.", "rating": 4, "text": "Great app but the mobile version is missing some features from desktop. Still very usable though." },
+      { "user": "Anita P.", "rating": 5, "text": "Natural language input is a lifesaver. I just type and it schedules everything. Brilliant design." },
+      { "user": "Marcus J.", "rating": 2, "text": "Keeps crashing on my Android 13 device. Support hasn't responded in a week. Disappointed." },
+      { "user": "Rachel G.", "rating": 4, "text": "Kanban boards are smooth and the Slack integration works flawlessly. Would love more color themes." }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5",
+    "title": "CryptoVault Security",
+    "companyName": "SecureBit LLC",
+    "id": 3,
+    "description": "CryptoVault Security is the ultimate fortress for your digital life. Built on military-grade AES-256 encryption and zero-knowledge architecture, CryptoVault ensures that only you can ever access your passwords, crypto wallets, private keys, and sensitive documents — not even our own servers can see your data. Trusted by over 150,000 users worldwide, it's the gold standard for personal digital security.\n\nThe app combines a powerful password manager, secure crypto wallet, encrypted file vault, and two-factor authentication generator into one sleek, intuitive interface. Generate uncrackable passwords with one tap, autofill logins across apps and browsers, and receive real-time breach alerts if any of your accounts appear in known data leaks. The built-in dark web monitor continuously scans for your email addresses and alerts you the moment your credentials are exposed.\n\nFor crypto enthusiasts, CryptoVault supports over 5,000 coins and tokens across 40+ blockchains. Store seed phrases, track portfolio value, and sign transactions securely — all without exposing your private keys to the internet. Biometric unlock via fingerprint or face recognition, plus a customizable panic wipe feature, give you peace of mind if your device is ever lost or stolen.\n\nCross-device sync is encrypted end-to-end, and the app works fully offline. Regular third-party security audits, a bug bounty program, and transparent privacy policies back up our commitment to your security. Whether you're protecting a single email account or a multi-million dollar crypto portfolio, CryptoVault Security delivers uncompromising protection with effortless usability.",
+    "size": 68.4,
+    "reviews": 3100,
+    "ratingAvg": 4.8,
+    "downloads": 150000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 10 },
+      { "name": "3 star", "count": 70 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 2500 }
+    ],
+    "comments": [
+      { "user": "Viktor N.", "rating": 5, "text": "Finally a password manager that takes crypto seriously. Seed phrase storage with zero-knowledge encryption is exactly what I needed." },
+      { "user": "Hannah B.", "rating": 5, "text": "Switched from another popular manager and never looking back. The dark web monitor already saved me twice." },
+      { "user": "Omar F.", "rating": 4, "text": "Excellent security but the UI could be a bit more modern. Functionality is flawless though." },
+      { "user": "Lisa M.", "rating": 5, "text": "The panic wipe feature gives me so much peace of mind when traveling. Worth every penny." },
+      { "user": "Ryan C.", "rating": 1, "text": "Locked out of my account after an update. Recovery process is a nightmare. Avoid if you value your data." }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1579373903781-fd5c0c30c4cd",
+    "title": "PixelCanvas Studio",
+    "companyName": "Creative Minds",
+    "id": 4,
+    "description": "PixelCanvas Studio brings professional-grade graphic design to your fingertips. Whether you're a hobbyist illustrator, a social media manager, or a professional designer on the go, PixelCanvas offers a complete creative suite that rivals desktop software — all optimized for touch and stylus input. The app supports both vector and raster workflows, so you can switch seamlessly between crisp, scalable logos and rich, textured digital paintings without ever leaving the canvas.\n\nWith over 200 customizable brushes, including realistic watercolor, oil, charcoal, ink, and airbrush sets, your artistic vision knows no limits. Advanced layer management supports blend modes, masks, clipping groups, and adjustment layers. The precision selection tools, including magic wand, lasso, and smart edge detection, make complex edits fast and intuitive. Vector tools offer bezier curves, shape libraries, boolean operations, and full SVG import/export.\n\nPixelCanvas includes a massive template library with presets for Instagram posts, YouTube thumbnails, posters, business cards, and presentations. The built-in AI assistant can remove backgrounds, upscale images, generate color palettes, and suggest layouts based on your content. Cloud sync keeps your projects available across phone, tablet, and desktop, and real-time collaboration lets you invite teammates to edit the same canvas simultaneously.\n\nExport your work in PNG, JPG, SVG, PDF, PSD, or WebP at resolutions up to 8K. Time-lapse recording captures your creative process automatically for sharing on social media. With regular free content drops, an active community gallery, and no mandatory subscription, PixelCanvas Studio is the most versatile mobile design tool available today.",
+    "size": 120.0,
+    "reviews": 620,
+    "ratingAvg": 4.2,
+    "downloads": 18000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 80 },
+      { "name": "4 star", "count": 200 },
+      { "name": "5 star", "count": 250 }
+    ],
+    "comments": [
+      { "user": "Isabella R.", "rating": 5, "text": "I've replaced my desktop design software with this. The brush engine is incredibly responsive on my iPad." },
+      { "user": "Kenji T.", "rating": 3, "text": "Powerful features but the learning curve is steep. Needs better onboarding tutorials for beginners." },
+      { "user": "Maya D.", "rating": 4, "text": "The AI background remover is surprisingly accurate. Saves me hours on product photos every week." },
+      { "user": "Andre B.", "rating": 5, "text": "SVG export works perfectly with my web workflow. Finally a mobile app that respects vector graphics." },
+      { "user": "Chloe W.", "rating": 2, "text": "Crashes constantly on large canvases over 4000px. Lost two hours of work. Very frustrating." }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8",
+    "title": "RecipeSpark Gourmet",
+    "companyName": "KitchenCraft Apps",
+    "id": 5,
+    "description": "RecipeSpark Gourmet transforms your kitchen into a world-class culinary destination. With over 50,000 professionally tested recipes spanning 80+ cuisines — from quick 15-minute weeknight dinners to elaborate weekend showstoppers — there's always something delicious waiting to be discovered. Every recipe includes detailed step-by-step instructions, high-resolution photos, prep and cook times, nutritional breakdowns, and user-submitted tips for perfecting each dish.\n\nTell RecipeSpark your dietary preferences and it instantly filters the entire library to match. Whether you're vegan, keto, gluten-free, paleo, halal, low-FODMAP, or just trying to eat more vegetables, the app has you covered. Smart ingredient substitutions suggest alternatives based on what you already have at home, and the built-in meal planner generates a full week of balanced menus with a single tap. The auto-generated shopping list organizes ingredients by supermarket aisle, saving you time and money.\n\nStep-by-step cooking mode features hands-free voice navigation, built-in timers for each stage, and video clips for tricky techniques like julienning, folding, and tempering chocolate. The app learns your tastes over time and personalizes recommendations based on what you cook, save, and rate. Save family favorites, create custom recipe collections, and share your own creations with the vibrant RecipeSpark community.\n\nAdditional features include a pantry tracker, wine pairing suggestions, portion scaler, and offline access to saved recipes. Whether you're a beginner learning to boil an egg or a seasoned home chef chasing Michelin-level results, RecipeSpark Gourmet is your trusted sous-chef in your pocket.",
+    "size": 28.9,
+    "reviews": 1900,
+    "ratingAvg": 4.5,
+    "downloads": 85000,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 1050 }
+    ],
+    "comments": [
+      { "user": "Nora H.", "rating": 5, "text": "The meal planner alone is worth it. I save so much money and time on groceries every week now." },
+      { "user": "Samir A.", "rating": 4, "text": "Huge recipe selection. Voice navigation in cooking mode works great, though sometimes mishears me." },
+      { "user": "Grace P.", "rating": 5, "text": "As a celiac, the gluten-free filters are accurate and reliable. I finally cook without anxiety." },
+      { "user": "Daniel O.", "rating": 3, "text": "Good recipes but many use ingredients that are hard to find outside major cities. Needs more basic options." },
+      { "user": "Yuki M.", "rating": 5, "text": "The wine pairing suggestions elevated my dinner parties. My friends think I'm a professional chef now!" }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f",
+    "title": "BudgetFlow Analytics",
+    "companyName": "FinTech Solutions",
+    "id": 6,
+    "description": "BudgetFlow Analytics is the smartest way to take control of your money. Designed for individuals, couples, and small business owners, BudgetFlow automatically categorizes every transaction, tracks your spending in real time, and gives you a crystal-clear picture of where your money is going. Connect unlimited bank accounts, credit cards, investment portfolios, and loan accounts — all synced securely with bank-level 256-bit encryption.\n\nThe app goes far beyond simple expense tracking. Set custom budgets by category, receive intelligent alerts before you overshoot, and use the AI-powered cash flow forecast to see exactly how much money you'll have at the end of the month. Goal-based savings trackers let you save for a vacation, a down payment, or an emergency fund with automatic transfers and visual progress milestones.\n\nInvestment tracking supports stocks, ETFs, mutual funds, crypto, and real estate. See your entire net worth in one elegant dashboard, updated live with market prices. Detailed reports break down income versus expenses, spending trends over time, and category comparisons — exportable as PDF or CSV for tax season. Multi-currency support makes BudgetFlow ideal for travelers and expats.\n\nAdditional features include bill reminders, subscription detection that flags forgotten recurring charges, split-bill tools for roommates, and a secure document vault for receipts and tax records. Whether you're paying off debt, building wealth, or simply trying to stop living paycheck to paycheck, BudgetFlow Analytics gives you the clarity and confidence to make smarter financial decisions every day.",
+    "size": 35.2,
+    "reviews": 1420,
+    "ratingAvg": 4.4,
+    "downloads": 62000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 420 },
+      { "name": "5 star", "count": 800 }
+    ],
+    "comments": [
+      { "user": "Monica V.", "rating": 5, "text": "The subscription detector found three services I forgot I was paying for. Saved me $47 a month instantly." },
+      { "user": "Ben K.", "rating": 4, "text": "Solid budgeting app. The forecast feature is surprisingly accurate once it learns your patterns." },
+      { "user": "Aisha R.", "rating": 5, "text": "Finally an app that tracks both my stocks and my crypto in one place. Net worth dashboard is beautiful." },
+      { "user": "Greg T.", "rating": 2, "text": "Bank sync keeps disconnecting every few days. I have to re-enter credentials constantly. Very annoying." },
+      { "user": "Lena F.", "rating": 5, "text": "Split-bill feature saved my roommate relationship. No more awkward 'who owes what' conversations." }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1534447677768-be436bb09401",
+    "title": "Aura Meditation & Sleep",
+    "companyName": "Mindful Living Co.",
+    "id": 7,
+    "description": "Aura Meditation & Sleep is your sanctuary of calm in a noisy world. With over 2,000 guided meditations, sleep stories, breathing exercises, and ambient soundscapes, Aura helps you reduce stress, improve focus, and sleep deeply — no matter how busy your life gets. Whether you have five minutes or fifty, there's always a session perfectly suited to your current state of mind.\n\nStart your day with morning gratitude meditations, take a mindful lunch break with a body scan, and wind down at night with soothing sleep stories narrated by calming voices. The app's adaptive recommendation engine learns your preferences over time, suggesting sessions based on your mood, time of day, and even your heart rate if you connect a wearable. Specialized programs address anxiety, depression, grief, anger, and burnout, developed in consultation with licensed therapists.\n\nSleep is a core focus. Aura offers over 300 sleep stories, from fairy tales to nature documentaries, plus binaural beats, ASMR triggers, and white noise options like rain, ocean waves, and crackling fire. The smart alarm wakes you gently during your lightest sleep phase, and the sleep tracker provides detailed reports on duration, quality, and disturbances. Integration with Apple Health and Google Fit keeps all your wellness data unified.\n\nBreathing exercises include box breathing, 4-7-8, and coherent breathing, with visual guides and haptic feedback. Aura also features daily mood check-ins, journaling prompts, and progress statistics to keep you motivated. New content is added weekly, and offline downloads let you meditate anywhere — on a plane, in a tent, or during a lunch break. With a soothing interface, calming color palette, and optional nature sounds, Aura Meditation & Sleep is more than an app — it's a daily ritual of self-care.",
+    "size": 89.3,
+    "reviews": 4150,
+    "ratingAvg": 4.9,
+    "downloads": 220000,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 50 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 3750 }
+    ],
+    "comments": [
+      { "user": "Olivia S.", "rating": 5, "text": "This app literally changed my life. I've struggled with insomnia for years and now I fall asleep in minutes." },
+      { "user": "Nathan H.", "rating": 5, "text": "The sleep stories are incredible. The narrator's voice is so soothing I never make it to the end." },
+      { "user": "Fatima Z.", "rating": 4, "text": "Beautiful app and amazing content. Wish there were more meditations in languages other than English." },
+      { "user": "Chris B.", "rating": 5, "text": "Worth every cent. The anxiety program helped me through a really tough period. Forever grateful." },
+      { "user": "Diana L.", "rating": 3, "text": "Content is great but the app is a bit pricey compared to competitors. Free tier is quite limited." }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c",
+    "title": "CodeHub Mobile IDE",
+    "companyName": "DevTools Studio",
+    "id": 8,
+    "description": "CodeHub Mobile IDE brings a full-featured development environment to your phone or tablet. Built for developers who want to code anywhere — on the train, at a coffee shop, or from the comfort of their couch — CodeHub supports over 40 programming languages including Python, JavaScript, TypeScript, Java, Kotlin, Swift, C++, C#, Go, Rust, PHP, Ruby, and SQL. Syntax highlighting, intelligent autocomplete, and real-time error detection work across every supported language.\n\nThe built-in terminal emulator lets you run shell commands, install packages, and execute scripts directly on your device. Git integration supports cloning, committing, branching, merging, and pushing to GitHub, GitLab, and Bitbucket without leaving the app. The file manager includes FTP/SFTP support, cloud storage sync with Dropbox and Google Drive, and a powerful search that indexes your entire project.\n\nCodeHub includes a live preview mode for web development, so you can see your HTML, CSS, and JavaScript changes in real time. Debugging tools include breakpoints, variable inspection, and a console for logging output. Database support covers SQLite, MySQL, and PostgreSQL, with a visual query builder for those who prefer not to write raw SQL.\n\nCollaboration features let you share snippets, pair-program via screen sharing, and review pull requests. Customizable themes, font sizes, and keyboard shortcuts make the editor truly yours. Whether you're prototyping an idea, fixing a production bug on the go, or learning to code for the first time, CodeHub Mobile IDE gives you the power of a desktop IDE in your pocket — no laptop required.",
+    "size": 74.0,
+    "reviews": 920,
+    "ratingAvg": 4.1,
+    "downloads": 40000,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 350 }
+    ],
+    "comments": [
+      { "user": "Alex J.", "rating": 5, "text": "Incredible that I can run Python scripts on my phone. The terminal emulator is surprisingly powerful." },
+      { "user": "Ravi P.", "rating": 3, "text": "Good concept but autocomplete is unreliable for less common languages. Works great for JavaScript though." },
+      { "user": "Sophie M.", "rating": 4, "text": "Git integration is solid. I've fixed urgent bugs from my phone multiple times. Total lifesaver." },
+      { "user": "Tyler R.", "rating": 2, "text": "Crashes when opening large repos with more than 500 files. Needs serious optimization work." },
+      { "user": "Nina K.", "rating": 5, "text": "The live preview for web dev is fantastic. I prototype all my ideas on my tablet now instead of my laptop." }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1526738549149-8e07eca6c147",
+    "title": "LingoSphere Language",
+    "companyName": "Global EdTech",
+    "id": 9,
+    "description": "LingoSphere Language is the most effective way to learn a new language — backed by cognitive science and powered by artificial intelligence. Choose from 35 languages including Spanish, French, German, Japanese, Korean, Mandarin, Arabic, Italian, Portuguese, Russian, and Hindi. Each course is built around bite-sized, 5-10 minute lessons that fit seamlessly into your daily routine, whether you're commuting, waiting in line, or relaxing at home.\n\nThe app uses spaced repetition and adaptive learning algorithms to ensure you remember what you learn long-term. Vocabulary, grammar, listening, speaking, reading, and writing are all practiced in every lesson. Speech recognition technology evaluates your pronunciation in real time and gives detailed feedback on accent, intonation, and fluency. The AI conversation partner simulates realistic dialogues — ordering food, asking for directions, making small talk — so you build confidence before using your skills in the real world.\n\nInteractive stories, news articles, and podcasts in your target language provide authentic immersion at every level. The app tracks your progress with detailed statistics, streaks, and weekly goals. Compete with friends on leaderboards or join community challenges to stay motivated. Personalized review sessions target your weakest areas, ensuring no skill is left behind.\n\nAdditional features include offline lessons, a phrasebook for travelers, cultural notes that explain customs and etiquette, and a dictionary with over 500,000 entries. Parent and teacher dashboards make LingoSphere ideal for classrooms and families. Whether you're learning for travel, work, school, or personal enrichment, LingoSphere Language makes fluency achievable — one small lesson at a time.",
+    "size": 55.8,
+    "reviews": 2780,
+    "ratingAvg": 4.7,
+    "downloads": 130000,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 1960 }
+    ],
+    "comments": [
+      { "user": "Maria G.", "rating": 5, "text": "I've tried every language app out there and this is by far the best. The AI conversation partner feels almost real." },
+      { "user": "James L.", "rating": 4, "text": "Excellent for Spanish. Wish there were more advanced C1 content for learners who already have a strong base." },
+      { "user": "Amara O.", "rating": 5, "text": "Learning Japanese has never been easier. The speech recognition catches my pitch accent mistakes perfectly." },
+      { "user": "Felix W.", "rating": 5, "text": "The spaced repetition system is scientifically sound. I remember vocabulary weeks later without reviewing." },
+      { "user": "Svetlana D.", "rating": 3, "text": "Good app but the free version limits lessons too much. Subscription price is steep for casual learners." }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1517841905240-472988babdf9",
+    "title": "SnapJourney Travel Planner",
+    "companyName": "Wanderlust Media",
+    "id": 10,
+    "description": "SnapJourney Travel Planner is your personal travel concierge, designed to make every trip unforgettable. From the first spark of inspiration to the moment you return home, SnapJourney handles every detail so you can focus on making memories. Enter your destination, dates, and interests, and the app instantly generates a personalized itinerary packed with must-see landmarks, hidden gems, local restaurants, and off-the-beaten-path experiences tailored just for you.\n\nCollaborate with travel companions in real time. Everyone can add ideas, vote on activities, and comment on plans — no more endless group chats or messy spreadsheets. The built-in flight and hotel search compares prices across hundreds of providers, while price-drop alerts notify you the moment fares fall. Once booked, all your reservations are automatically imported and organized in one timeline, complete with confirmation numbers, addresses, and check-in details.\n\nOffline maps ensure you never get lost, even without a signal. Turn-by-turn walking, driving, and transit directions work worldwide. The app's currency converter, tipping guide, and translation tool make international travel stress-free. Packing lists are generated based on your destination's weather forecast, trip length, and planned activities — no more forgetting essentials.\n\nDiscover curated guides from local experts and fellow travelers, complete with photos, reviews, and insider tips. Budget tracking keeps your spending in check, and post-trip memories are collected automatically into a beautiful digital journal. With automatic time-zone adjustment, weather alerts, and safety notifications, SnapJourney Travel Planner is the only travel app you'll ever need.",
+    "size": 42.6,
+    "reviews": 1100,
+    "ratingAvg": 4.3,
+    "downloads": 48000,
+    "ratings": [
+      { "name": "1 star", "count": 45 },
+      { "name": "2 star", "count": 35 },
+      { "name": "3 star", "count": 110 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 510 }
+    ],
+    "comments": [
+      { "user": "Elena V.", "rating": 5, "text": "Planned a two-week Japan trip entirely in this app. The itinerary generator suggested places I'd never have found." },
+      { "user": "Mark T.", "rating": 4, "text": "Group collaboration is a game changer for friend trips. No more arguing over where to eat." },
+      { "user": "Priyanka R.", "rating": 5, "text": "Offline maps saved us in rural Iceland. Turn-by-turn directions worked perfectly without any signal." },
+      { "user": "Johan B.", "rating": 2, "text": "Flight prices were often outdated compared to direct booking sites. Cost me extra money." },
+      { "user": "Carmen S.", "rating": 5, "text": "The post-trip journal auto-created from my photos and locations is a beautiful keepsake. Love it." }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+    "title": "DevMetrics Dashboard",
+    "companyName": "CloudScale Inc.",
+    "id": 11,
+    "description": "DevMetrics Dashboard gives engineering teams real-time visibility into their infrastructure, applications, and performance metrics — all from the palm of their hand. Built for DevOps engineers, SREs, and developers who need to respond to incidents fast, DevMetrics aggregates data from all your monitoring tools into one unified, mobile-optimized dashboard.\n\nConnect effortlessly to AWS, Google Cloud, Azure, Kubernetes, Docker, and popular monitoring services like Datadog, New Relic, Prometheus, and Grafana. View CPU, memory, disk, and network metrics in real time. Set custom alerts for thresholds, anomalies, or downtime, and receive instant push notifications with actionable context — so you know whether to wake up or roll over.\n\nError tracking is built in. DevMetrics captures exceptions, stack traces, and user impact across your entire stack, with automatic grouping and prioritization. The deployment tracker shows which version is running in each environment and correlates releases with performance changes. Log aggregation supports full-text search across millions of entries, with saved queries and filters.\n\nIncident management features include on-call schedules, escalation policies, and a collaborative incident timeline. Post-mortem reports are generated automatically, pulling together all relevant metrics, logs, and communications. Uptime monitoring pings your endpoints from 30 global locations, and the status page builder lets you communicate outages to customers.\n\nSecurity is enterprise-grade with SSO, role-based access control, and audit logs. The app works offline, caching recent data for when you're in a tunnel or on a plane. With a clean, dark-mode-first interface designed for quick scanning, DevMetrics Dashboard ensures you're always the first to know — and the first to fix.",
+    "size": 31.4,
+    "reviews": 430,
+    "ratingAvg": 4.5,
+    "downloads": 15000,
+    "ratings": [
+      { "name": "1 star", "count": 10 },
+      { "name": "2 star", "count": 10 },
+      { "name": "3 star", "count": 40 },
+      { "name": "4 star", "count": 120 },
+      { "name": "5 star", "count": 250 }
+    ],
+    "comments": [
+      { "user": "Dmitri K.", "rating": 5, "text": "On-call has never been easier. I can triage incidents from bed without opening my laptop. Huge quality of life win." },
+      { "user": "Sarah N.", "rating": 4, "text": "Great integration with Datadog and PagerDuty. Push notifications are reliable and fast." },
+      { "user": "Miguel A.", "rating": 5, "text": "The deployment tracker caught a bad release within minutes. Rolled back before customers noticed." },
+      { "user": "Jenny L.", "rating": 5, "text": "Dark mode interface is perfect for 3am incident response. Clean, readable, and fast." },
+      { "user": "Ravi S.", "rating": 3, "text": "Works well but setup for custom metrics took longer than expected. Documentation could be clearer." }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e",
+    "title": "Nexus Gaming Hub",
+    "companyName": "PlayForge",
+    "id": 12,
+    "description": "Nexus Gaming Hub is the ultimate social platform for gamers across every console, PC, and mobile device. Connect with friends, discover new games, stream your best moments, and join communities of players who share your passion. With over 300,000 downloads and a thriving community, Nexus is where gaming culture lives.\n\nBuild your gamer profile with achievements, stats, and favorite titles from Steam, PlayStation, Xbox, Nintendo, and mobile platforms. The unified friends list shows who's online across all services, so you always know who's ready to squad up. Voice and text chat support crystal-clear communication with party features, push-to-talk, and noise suppression. Screen sharing and remote play let you watch friends game or jump into a co-op session instantly.\n\nDiscover your next favorite game with personalized recommendations based on your play history, genres you love, and what your friends are playing. The discovery feed highlights trending indie titles, early access gems, and hidden classics. Detailed game pages include reviews from critics and players, streaming highlights, active player counts, and price tracking across all storefronts — never overpay again.\n\nStreaming integration supports Twitch, YouTube Gaming, and Facebook Gaming, with one-tap broadcasting from your device. Clip and share epic moments directly to your Nexus feed or other social platforms. Tournaments and community events run weekly, with leaderboards, prizes, and bragging rights on the line.\n\nWhether you're a competitive esports enthusiast, a casual mobile gamer, or a retro collector, Nexus Gaming Hub connects you to the games and people that make gaming great. Join the community and level up your social gaming experience.",
+    "size": 115.2,
+    "reviews": 5300,
+    "ratingAvg": 4.4,
+    "downloads": 300000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 450 },
+      { "name": "4 star", "count": 1500 },
+      { "name": "5 star", "count": 3000 }
+    ],
+    "comments": [
+      { "user": "Zoe R.", "rating": 5, "text": "Finally all my gaming friends in one place. Cross-platform chat works flawlessly. Game changer." },
+      { "user": "Marcus D.", "rating": 4, "text": "Great for finding indie games. The price tracking feature saved me $30 on my last purchase." },
+      { "user": "Aiden K.", "rating": 5, "text": "The clip sharing is so smooth. I've built a following just from moments captured through this app." },
+      { "user": "Layla H.", "rating": 2, "text": "Voice chat quality is poor compared to Discord. Echo issues on mobile are really bad." },
+      { "user": "Tom P.", "rating": 5, "text": "Weekly tournaments are a blast. Won my first cash prize last month thanks to the community events." }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1508739773434-c26b3d09e071",
+    "title": "SkyCast Weather Radar",
+    "companyName": "MeteorApps",
+    "id": 13,
+    "description": "SkyCast Weather Radar delivers the most accurate, hyper-local weather forecasts available on mobile. Powered by a proprietary blend of global weather models, satellite imagery, radar data, and thousands of personal weather stations, SkyCast gives you precision forecasts down to your neighborhood — not just your city.\n\nThe animated radar map shows precipitation in real time, with a 3-hour future cast so you can see exactly when rain or snow will arrive at your exact location. Severe weather alerts for tornadoes, hurricanes, flash floods, thunderstorms, and winter storms are pushed instantly with detailed safety instructions. The hurricane tracker follows storm paths, cone of uncertainty, and historical comparisons.\n\nDaily and hourly forecasts cover temperature, feels-like, humidity, wind speed and direction, UV index, visibility, dew point, pressure, and air quality. The 15-day outlook helps you plan trips and events with confidence. Sunrise and sunset times, moon phases, and astronomical data are perfect for photographers, astronomers, and outdoor enthusiasts.\n\nCustomizable widgets display the information you care about most right on your home screen. Multiple saved locations make it easy to check on family in other cities. The app even includes a weather-based outfit suggester and activity planner — whether you're running, golfing, or grilling, SkyCast tells you the best time to head outside.\n\nWith a clean, intuitive interface, dark mode for nighttime viewing, and no intrusive ads, SkyCast Weather Radar is the only weather app you'll ever need. Trusted by over 110,000 users for daily planning and severe weather safety.",
+    "size": 24.3,
+    "reviews": 2150,
+    "ratingAvg": 4.6,
+    "downloads": 110000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 650 },
+      { "name": "5 star", "count": 1300 }
+    ],
+    "comments": [
+      { "user": "Laura M.", "rating": 5, "text": "The future cast radar is scarily accurate. I know exactly when to walk my dog between rain showers." },
+      { "user": "Kevin O.", "rating": 4, "text": "Best weather app I've used. The widgets are customizable and the alerts have never been wrong for my area." },
+      { "user": "Simone B.", "rating": 5, "text": "Air quality alerts helped me manage my asthma triggers. This app is genuinely important for my health." },
+      { "user": "Derek W.", "rating": 3, "text": "Good app but drains battery quickly when the radar animation is running. Needs optimization." },
+      { "user": "Aiko T.", "rating": 5, "text": "Used the hurricane tracker during last season. Precise, calm, and informative when I needed it most." }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f",
+    "title": "CollabSpace Team Chat",
+    "companyName": "Workplace Solutions",
+    "id": 14,
+    "description": "CollabSpace Team Chat is the secure, all-in-one communication platform built for modern teams. Whether your team is remote, hybrid, or in-office, CollabSpace brings messaging, file sharing, video conferencing, and project management together in one seamless experience — eliminating app-switching and keeping everyone aligned.\n\nOrganize conversations into channels by project, department, or topic. Direct messages and group chats support rich text, emoji reactions, threaded replies, and @mentions. File sharing handles documents, images, videos, and code snippets with preview support and version history. The unified search lets you find any message, file, or link across your entire workspace in seconds.\n\nVideo conferencing supports up to 100 participants with HD quality, screen sharing, virtual backgrounds, and live captioning. Meetings can be recorded and transcribed automatically, with action items extracted and assigned to team members. The built-in calendar syncs with Google Calendar and Outlook, making scheduling effortless.\n\nTask management is integrated directly into conversations. Turn any message into a task, assign it to a teammate, set a due date, and track progress without leaving the chat. Kanban boards and to-do lists keep projects moving. Integrations with Google Drive, Dropbox, GitHub, Jira, Trello, and over 50 other tools make CollabSpace the central hub of your workflow.\n\nSecurity is enterprise-grade with end-to-end encryption, SSO, two-factor authentication, and compliance certifications including SOC 2 and GDPR. Admin controls include message retention policies, data export, and user provisioning. Guest access lets you collaborate with clients and contractors securely.\n\nWith a clean interface, lightning-fast search, and reliable uptime, CollabSpace Team Chat is trusted by 175,000+ users at companies of all sizes. Work together, wherever you are.",
+    "size": 65.0,
+    "reviews": 3400,
+    "ratingAvg": 4.2,
+    "downloads": 175000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 1100 },
+      { "name": "5 star", "count": 1550 }
+    ],
+    "comments": [
+      { "user": "Brian S.", "rating": 5, "text": "Replaced three separate apps for our team. The task integration into chat is brilliant and saves so much time." },
+      { "user": "Nadia F.", "rating": 4, "text": "Video quality is excellent and screen sharing never lags. Wish the free tier allowed more storage." },
+      { "user": "Colin M.", "rating": 5, "text": "The search function is incredibly fast. Finding old files and decisions is instant now." },
+      { "user": "Yvonne L.", "rating": 1, "text": "Messages randomly fail to send on mobile data. This is a critical bug that's been ignored for months." },
+      { "user": "Pablo R.", "rating": 5, "text": "Guest access for client collaboration is seamless. Our agency runs entirely on CollabSpace now." }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773",
+    "title": "Zenith Yoga & Pilates",
+    "companyName": "Wellness Media",
+    "id": 15,
+    "description": "Zenith Yoga & Pilates is your personal studio for building strength, flexibility, and inner calm. With over 800 high-quality video classes spanning beginner to advanced levels, this app is designed for practitioners of every age and ability. Whether you're rolling out your mat for the first time or deepening a decades-long practice, Zenith has classes that meet you exactly where you are.\n\nChoose from a wide range of styles including Hatha, Vinyasa, Ashtanga, Yin, Restorative, Prenatal, and Power Yoga, plus mat and reformer-style Pilates. Each class is led by certified instructors with clear, calming cueing and modifications for injuries or limitations. Filter classes by duration (5 to 90 minutes), intensity, focus area (core, back, hips, shoulders), and equipment needed. The smart recommendation engine suggests classes based on your goals, experience, and even how you're feeling today.\n\nPrograms are structured for real progress. The 30-Day Beginner Yoga Challenge, Pilates Core Revolution, and Flexibility in 21 Days are just a few of the guided journeys that build skills week by week. Progress tracking shows your total practice time, streaks, and favorite instructors. The app integrates with Apple Health and Google Fit, logging your sessions as mindful minutes and workouts.\n\nOffline downloads mean you can practice anywhere — at home, in a hotel, or in a park. The built-in pose library with detailed photos and alignment cues helps you master tricky asanas safely. Audio-only mode lets you follow along with your eyes closed. Breathwork and meditation sessions complement your physical practice for a complete mind-body experience.\n\nWith a beautiful, distraction-free interface, soothing soundtracks, and a supportive community, Zenith Yoga & Pilates makes wellness a sustainable habit — not a chore. Roll out your mat and begin your journey today.",
+    "size": 52.1,
+    "reviews": 890,
+    "ratingAvg": 4.7,
+    "downloads": 42000,
+    "ratings": [
+      { "name": "1 star", "count": 15 },
+      { "name": "2 star", "count": 10 },
+      { "name": "3 star", "count": 45 },
+      { "name": "4 star", "count": 220 },
+      { "name": "5 star", "count": 600 }
+    ],
+    "comments": [
+      { "user": "Renee C.", "rating": 5, "text": "The prenatal yoga classes were a lifesaver during my pregnancy. Safe, gentle, and beautifully instructed." },
+      { "user": "Alexis D.", "rating": 4, "text": "Great variety of Pilates classes. Would love to see more advanced reformer-style options added." },
+      { "user": "Mira J.", "rating": 5, "text": "Audio-only mode is perfect for my morning practice. I can focus on breath without screen distraction." },
+      { "user": "Steve H.", "rating": 5, "text": "As a runner, the hip and back focused classes fixed my chronic tightness. Life-changing stuff." },
+      { "user": "Tanya B.", "rating": 3, "text": "Classes are excellent but the app sometimes buffers on slower connections. Download feature helps." }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40",
+    "title": "ResumePro AI",
+    "companyName": "CareerBoost Inc.",
+    "id": 16,
+    "description": "ResumePro AI is the fastest, smartest way to land your dream job. Powered by advanced generative AI trained on millions of successful resumes and hiring data, ResumePro helps you create a polished, ATS-friendly resume and tailored cover letter in minutes — no writing skills required.\n\nStart by importing your existing resume or filling out a simple guided form. The AI analyzes your work history, skills, and achievements, then suggests powerful, action-oriented bullet points that highlight your impact. It automatically formats everything into clean, professional templates optimized for Applicant Tracking Systems used by 99% of Fortune 500 companies. Choose from over 50 recruiter-approved designs, customize colors and fonts, and export to PDF, Word, or plain text.\n\nThe job-matching engine scans millions of live job listings and recommends positions that align with your experience and career goals. For each job, ResumePro generates a tailored cover letter that references the specific company, role, and requirements — dramatically increasing your response rate. The interview prep module includes hundreds of practice questions, AI-powered mock interviews with real-time feedback, and salary negotiation tips.\n\nAdditional features include LinkedIn profile optimization, skill gap analysis that tells you what to learn next, and a career timeline that maps your professional growth. The app tracks every application, follow-up, and interview in one organized dashboard, so you never lose track of an opportunity.\n\nWhether you're a recent graduate, a mid-career professional, or an executive, ResumePro AI gives you the competitive edge in today's tough job market. Build a resume that gets noticed, get more interviews, and negotiate the salary you deserve.",
+    "size": 19.8,
+    "reviews": 750,
+    "ratingAvg": 4.3,
+    "downloads": 35000,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 85 },
+      { "name": "4 star", "count": 250 },
+      { "name": "5 star", "count": 350 }
+    ],
+    "comments": [
+      { "user": "Rachel K.", "rating": 5, "text": "Got three interviews in the first week after using ResumePro. The ATS optimization really works." },
+      { "user": "Darnell W.", "rating": 4, "text": "Cover letter generator is impressive. It genuinely tailors each letter to the specific job posting." },
+      { "user": "Mei L.", "rating": 5, "text": "The AI bullet points made my achievements sound so much more impressive than my own writing. Worth it." },
+      { "user": "Frank T.", "rating": 2, "text": "Templates look dated compared to modern design tools. AI suggestions can be generic too." },
+      { "user": "Sonia G.", "rating": 5, "text": "Mock interview feature helped me nail my final round. The feedback on my answers was spot on." }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1546410531-bb4caa6b824d",
+    "title": "SoundWave Podcast Player",
+    "companyName": "AudioMedia Ltd.",
+    "id": 17,
+    "description": "SoundWave Podcast Player is the ultimate listening companion for podcast lovers. With over 5 million podcasts and 100 million episodes indexed, SoundWave makes discovering, organizing, and enjoying your favorite shows effortless — whether you're into true crime, business, comedy, news, science, or anything in between.\n\nThe app's powerful recommendation engine learns your listening habits and suggests new shows you'll actually love. Curated collections from editors and celebrities highlight the best in every category. Search by episode title, guest name, or topic to find exactly what you're looking for. Follow your favorite shows and get notified the moment new episodes drop.\n\nSoundWave's playback engine is built for serious listeners. Adjust speed from 0.5x to 3.5x without pitch distortion. Trim silence automatically to save time. Use the sleep timer with gradual fade-out and shake-to-reset. Create custom playlists, queue episodes, and organize by priority. Chapter navigation lets you skip ads or jump to segments — no more guessing where the interview starts.\n\nSync across all your devices with continuous playback. Start an episode on your phone during your commute and pick up exactly where you left off on your tablet at home. CarPlay and Android Auto support make listening safe and seamless on the road. Offline downloads let you listen without using data.\n\nSocial features include sharing clips, commenting on episodes, and following friends to see what they're listening to. The stats dashboard shows your total listening time, favorite genres, and podcast streaks. With a clean, intuitive interface and no intrusive ads, SoundWave Podcast Player is the only podcast app you'll ever need.",
+    "size": 38.7,
+    "reviews": 1600,
+    "ratingAvg": 4.5,
+    "downloads": 90000,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 510 },
+      { "name": "5 star", "count": 900 }
+    ],
+    "comments": [
+      { "user": "Nina P.", "rating": 5, "text": "Speed control without chipmunk voices is perfect. I listen to 2x without any distortion. Brilliant." },
+      { "user": "Oscar L.", "rating": 4, "text": "Huge podcast library. The chapter navigation feature is a godsend for skipping ads." },
+      { "user": "Helena S.", "rating": 5, "text": "CarPlay integration is flawless. My commute is now my favorite part of the day." },
+      { "user": "Jamal R.", "rating": 3, "text": "Good player but sync sometimes fails between devices. Have to manually find my spot occasionally." },
+      { "user": "Grace T.", "rating": 5, "text": "Discovery algorithm nailed it from day one. Found five new favorite shows in the first week." }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1531403009284-440f080d1e12",
+    "title": "EcoTrack Carbon Footprint",
+    "companyName": "GreenFuture Labs",
+    "id": 18,
+    "description": "EcoTrack Carbon Footprint is your personal guide to living sustainably in a changing world. Designed for individuals and families who want to reduce their environmental impact without guilt or complexity, EcoTrack calculates your carbon footprint across all major areas — transportation, home energy, diet, shopping, and waste — and gives you practical, achievable steps to shrink it.\n\nGet started with a simple onboarding questionnaire that takes less than five minutes. EcoTrack then generates your personalized carbon profile with a clear breakdown of where your emissions come from. The app tracks your progress over time, showing how small changes compound into meaningful reductions. Set weekly or monthly goals, and celebrate milestones as you hit them.\n\nSmart features make sustainable living easy. Log your commutes and EcoTrack suggests greener alternatives — biking, public transit, carpooling, or EVs — with estimated carbon and cost savings. The grocery scanner analyzes product barcodes and rates them on sustainability, packaging, and ethical sourcing. Home energy tracking integrates with smart meters and suggests thermostat adjustments, appliance upgrades, and renewable energy options.\n\nEcoTrack also connects you to a community of like-minded individuals. Join challenges like Plastic-Free July or Meatless Mondays, share tips, and see how your efforts compare to others in your city or country. Offset programs are vetted and transparent, allowing you to contribute to reforestation, clean energy, and ocean cleanup projects.\n\nEducational content explains the science behind climate change in accessible language, and regular reports show your cumulative impact. Whether you're a seasoned environmentalist or just starting your sustainability journey, EcoTrack Carbon Footprint makes a difference measurable, manageable, and meaningful.",
+    "size": 22.4,
+    "reviews": 510,
+    "ratingAvg": 4.4,
+    "downloads": 22000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 15 },
+      { "name": "3 star", "count": 45 },
+      { "name": "4 star", "count": 150 },
+      { "name": "5 star", "count": 280 }
+    ],
+    "comments": [
+      { "user": "Sienna R.", "rating": 5, "text": "The barcode scanner changed my shopping habits completely. I had no idea how unsustainable some brands were." },
+      { "user": "Mark D.", "rating": 4, "text": "Eye-opening app. My family reduced our footprint by 22% in six months just by following the suggestions." },
+      { "user": "Leila A.", "rating": 5, "text": "Love the community challenges. Meatless Mondays became a family tradition thanks to EcoTrack." },
+      { "user": "Tom G.", "rating": 3, "text": "Good app but home energy tracking requires a smart meter. Not everyone has one." },
+      { "user": "Aria N.", "rating": 5, "text": "Finally a climate app that informs without shaming. Practical, positive, and genuinely useful." }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1512758017271-d7b84c2113f1",
+    "title": "ReadSphere E-Reader",
+    "companyName": "Bookworm Tech",
+    "id": 19,
+    "description": "ReadSphere E-Reader transforms your phone or tablet into a beautiful, distraction-free reading sanctuary. With support for EPUB, PDF, MOBI, AZW3, CBZ, and plain text formats, you can bring your entire library wherever you go. The app's advanced rendering engine delivers crisp, comfortable text with customizable fonts, margins, line spacing, and brightness — tuned perfectly for long reading sessions without eye strain.\n\nChoose from five reading themes including day, night, sepia, and high-contrast modes, or create your own. The warm light filter reduces blue light for nighttime reading and better sleep. Auto-scroll lets you read hands-free, ideal for treadmill or meal-time reading. The built-in dictionary and translator work in over 40 languages — just tap a word to look it up instantly without leaving the page.\n\nOrganize your library with custom shelves, tags, and smart collections. Sync your reading progress, bookmarks, highlights, and notes across all your devices automatically. The social features let you share favorite passages, join book clubs, and see what friends are reading. The annual reading challenge helps you hit your book goals with visual progress tracking.\n\nReadSphere includes a powerful annotation system. Highlight text in multiple colors, add margin notes, and export all your highlights as a beautifully formatted document for study or review. For students and researchers, PDF support includes reflow mode, annotation tools, and citation export.\n\nAdditional features include text-to-speech with natural-sounding voices, adjustable playback speed, and offline access to your entire library. With no ads, no tracking, and a one-time purchase option, ReadSphere E-Reader respects your privacy and your wallet. Rediscover the joy of reading — anywhere, anytime.",
+    "size": 49.0,
+    "reviews": 2300,
+    "ratingAvg": 4.8,
+    "downloads": 115000,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 80 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 1770 }
+    ],
+    "comments": [
+      { "user": "Beatrice M.", "rating": 5, "text": "The warm light filter is a game changer for nighttime reading. I sleep better and still read for hours." },
+      { "user": "Henry L.", "rating": 5, "text": "Annotation and export tools are perfect for my grad school research. Replaced three other apps." },
+      { "user": "Sofia K.", "rating": 4, "text": "Beautiful reading experience. Would love to see more font options in future updates." },
+      { "user": "Darnell J.", "rating": 5, "text": "Text-to-speech voice quality is shockingly good. I listen to books while driving now." },
+      { "user": "Ingrid P.", "rating": 3, "text": "Great for EPUBs but PDF handling could be better. Complex layouts sometimes render incorrectly." }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1509228468518-180dd4864904",
+    "title": "FocusTimer Pomodoro",
+    "companyName": "Productivity Apps",
+    "id": 20,
+    "description": "FocusTimer Pomodoro is the most flexible and beautifully designed Pomodoro timer on mobile. Based on the scientifically proven Pomodoro Technique, this app helps you break work into focused intervals separated by short breaks — boosting concentration, reducing mental fatigue, and beating procrastination once and for all.\n\nCustomize everything. Set work intervals anywhere from 1 to 120 minutes, short breaks from 1 to 30 minutes, and long breaks from 5 to 60 minutes. Choose how many Pomodoros before a long break. Name your tasks, estimate how many Pomodoros each will take, and track actual time spent versus planned. The app automatically logs every session, building a detailed history of your focus habits.\n\nVisual and audio cues keep you on track without being annoying. Choose from gentle chimes, nature sounds, white noise, or complete silence. The minimalist interface shows exactly what you need — current task, time remaining, and session count — with no clutter. Dark mode, always-on display support, and customizable colors make the app a pleasure to use.\n\nDeep statistics show your daily, weekly, and monthly focus trends. See your most productive hours, average session length, and task completion rate. The built-in task list integrates seamlessly with the timer, and completed sessions sync with Apple Health as mindful minutes. FocusTimer also supports shortcuts and widgets for instant start from your home screen or lock screen.\n\nAdditional features include Do Not Disturb mode that silences notifications during focus sessions, a break reminder that encourages you to stand, stretch, and hydrate, and a daily goal tracker. Whether you're studying for exams, writing a novel, coding a project, or simply trying to get through your email, FocusTimer Pomodoro turns scattered attention into deep, satisfying focus.",
+    "size": 15.6,
+    "reviews": 980,
+    "ratingAvg": 4.6,
+    "downloads": 54000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 15 },
+      { "name": "3 star", "count": 65 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 580 }
+    ],
+    "comments": [
+      { "user": "Tara W.", "rating": 5, "text": "The customization options are perfect. I use 45-minute sessions and it's transformed my writing output." },
+      { "user": "Ben C.", "rating": 4, "text": "Clean, simple, effective. The statistics page helps me understand when I focus best." },
+      { "user": "Ling Z.", "rating": 5, "text": "Widget on my home screen makes starting a session effortless. No excuses anymore." },
+      { "user": "Molly R.", "rating": 5, "text": "The break reminders to stand and stretch have helped my back pain enormously. Thank you!" },
+      { "user": "Ivan S.", "rating": 3, "text": "Works well but syncing between devices isn't seamless. Stats don't always match up." }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3",
+    "title": "SnapCook Meal Planner",
+    "companyName": "Foodie Tech",
+    "id": 21,
+    "description": "SnapCook Meal Planner takes the guesswork out of home cooking. Simply snap a photo of your fridge, pantry, or grocery haul, and the app's advanced AI identifies your ingredients and instantly suggests delicious recipes you can make right now. No more staring blankly at a full fridge wondering what to cook — SnapCook turns what you have into meals you'll love.\n\nThe app's massive recipe database includes over 30,000 dishes from every cuisine imaginable, each with step-by-step instructions, photos, and nutritional information. Filter by dietary needs (vegetarian, vegan, keto, gluten-free, dairy-free), cooking time, difficulty, and cuisine. Smart substitutions suggest alternatives when you're missing an ingredient, so you can cook without a last-minute trip to the store.\n\nThe weekly meal planner generates a balanced menu based on your preferences, dietary goals, and what's already in your kitchen. It automatically creates a shopping list organized by aisle, tracks your pantry inventory, and reduces food waste by using ingredients before they expire. The app even learns which recipes your family loves and suggests them more often.\n\nStep-by-step cooking mode includes hands-free voice control, built-in timers, and video tutorials for techniques like chopping, sautéing, and baking. The portion scaler adjusts ingredient quantities for any number of servings. Wine and beverage pairing suggestions elevate every meal.\n\nAdditional features include a recipe importer that pulls recipes from websites and social media, a community feed where users share their creations and tips, and a nutrition tracker for health-conscious cooks. Whether you're a busy parent, a college student, or a home chef looking for inspiration, SnapCook Meal Planner makes cooking easier, cheaper, and more enjoyable.",
+    "size": 33.5,
+    "reviews": 1340,
+    "ratingAvg": 4.3,
+    "downloads": 67000,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 140 },
+      { "name": "4 star", "count": 450 },
+      { "name": "5 star", "count": 650 }
+    ],
+    "comments": [
+      { "user": "Renata F.", "rating": 5, "text": "The fridge photo feature is magic. It suggested a stir-fry from exactly what I had. Zero waste, zero stress." },
+      { "user": "Caleb M.", "rating": 4, "text": "Meal planning saves me so much money. I grocery shop once a week and never waste food now." },
+      { "user": "Diane K.", "rating": 5, "text": "Love that it learns my family's favorites. Taco Tuesday is now officially a tradition." },
+      { "user": "Sam P.", "rating": 3, "text": "Good app but AI sometimes misidentifies ingredients. Still useful with manual corrections." },
+      { "user": "Yolanda R.", "rating": 5, "text": "The recipe importer from websites works flawlessly. I've built my entire cookbook in this app." }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3",
+    "title": "SkillForge Online Courses",
+    "companyName": "EduGlobal",
+    "id": 22,
+    "description": "SkillForge Online Courses is your gateway to mastering the skills that matter most in today's economy. With over 10,000 courses taught by industry experts from companies like Google, Meta, Amazon, and top universities, SkillForge makes world-class education accessible and affordable for everyone, everywhere.\n\nChoose from comprehensive learning paths in programming, data science, AI, design, marketing, business, finance, photography, music, and more. Each course includes HD video lessons, downloadable resources, hands-on projects, quizzes, and a certificate of completion. The learning paths are structured to take you from beginner to job-ready, with capstone projects that build a portfolio you can show employers.\n\nSkillForge's adaptive learning technology personalizes your experience. Lessons adjust to your pace, and the app identifies knowledge gaps, suggesting additional practice where needed. The AI teaching assistant answers questions instantly, 24/7, and provides detailed explanations for every quiz answer — right or wrong. Code exercises are auto-graded with real-time feedback.\n\nLearn on your schedule with offline downloads. Watch lessons during your commute, practice on your lunch break, and take notes with timestamped bookmarks that link directly back to the video moment. Discussion forums connect you with fellow learners and instructors, and study groups form automatically based on your courses and goals.\n\nCareer services include resume reviews, portfolio feedback, and interview prep tailored to your target role. Employers actively recruit on SkillForge, and many courses qualify for continuing education credits. The mobile app supports picture-in-picture mode so you can learn while doing other tasks.\n\nWhether you're changing careers, upskilling for a promotion, or simply exploring a passion, SkillForge Online Courses gives you the tools, mentorship, and community to succeed. Start learning today and forge your future.",
+    "size": 94.2,
+    "reviews": 3890,
+    "ratingAvg": 4.7,
+    "downloads": 190000,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 180 },
+      { "name": "4 star", "count": 900 },
+      { "name": "5 star", "count": 2700 }
+    ],
+    "comments": [
+      { "user": "Aisha B.", "rating": 5, "text": "Completed the data science path and landed a job within three months. The capstone projects were key." },
+      { "user": "Michael V.", "rating": 4, "text": "Great content and instructors. The mobile app could use a better note-taking interface." },
+      { "user": "Zara H.", "rating": 5, "text": "The AI teaching assistant is available at 3am when I study. It's like having a personal tutor." },
+      { "user": "Peter L.", "rating": 5, "text": "Offline downloads let me learn on the subway with no signal. Perfect for my commute." },
+      { "user": "Nadia S.", "rating": 3, "text": "Courses are excellent but some are outdated. Need more frequent content refreshes." }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1543269865-cbf427effbad",
+    "title": "StudyGroup Connect",
+    "companyName": "CampusApp Inc.",
+    "id": 23,
+    "description": "StudyGroup Connect is the essential app for students who want to learn together and achieve more. Whether you're in high school, college, or graduate school, this app makes it easy to find study partners, form groups, share resources, and collaborate on projects — all in one organized, distraction-free space.\n\nCreate a profile with your school, courses, and study preferences. The matching algorithm connects you with students in your classes or studying similar subjects, whether you prefer in-person meetups or virtual sessions. Filter by study style, schedule availability, and location. Group chats keep everyone coordinated, and shared calendars make scheduling sessions effortless.\n\nCollaboration tools include a shared whiteboard for working through problems together, a document editor for group notes and assignments, and a file repository for slides, PDFs, and past exams. The flashcard generator lets you create and share decks with your group, complete with spaced repetition for efficient memorization. Quiz mode turns any flashcard set into a fun, competitive game.\n\nStaying accountable is built into the experience. Set study goals, track session attendance, and celebrate group milestones. The app blocks distracting apps during scheduled study sessions if you enable Focus Mode. Background noise options — rain, coffee shop, library — help everyone stay in the zone.\n\nStudyGroup Connect also connects you to campus resources: tutoring centers, professor office hours, library hours, and academic advising. The events feed shows study sessions, review workshops, and club meetings happening near you.\n\nPrivacy is a priority. You control who sees your profile and what information you share. All communication is encrypted, and the app is free for students with no ads. Whether you're struggling with calculus or preparing for the bar exam, StudyGroup Connect makes learning collaborative, social, and effective.",
+    "size": 27.8,
+    "reviews": 420,
+    "ratingAvg": 4.0,
+    "downloads": 19000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 80 },
+      { "name": "4 star", "count": 150 },
+      { "name": "5 star", "count": 100 }
+    ],
+    "comments": [
+      { "user": "Jordan F.", "rating": 5, "text": "Found an amazing study group for organic chem through this app. Passed with an A thanks to them." },
+      { "user": "Priya N.", "rating": 4, "text": "Great for finding people in my classes. The shared whiteboard is really useful for group problem solving." },
+      { "user": "Tyler M.", "rating": 3, "text": "Good concept but not many users at my school yet. Needs critical mass to be truly useful." },
+      { "user": "Samantha L.", "rating": 5, "text": "The flashcard sharing feature is a lifesaver. Our group created a 500-card deck for anatomy finals." },
+      { "user": "Derek S.", "rating": 2, "text": "Matchmaking suggested people in completely different majors. The filters don't work well enough." }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3",
+    "title": "StockPulse Market Watch",
+    "companyName": "WallStreet Mobile",
+    "id": 24,
+    "description": "StockPulse Market Watch puts the power of Wall Street in your pocket. Whether you're a seasoned investor or just starting out, this app delivers real-time stock quotes, breaking financial news, and deep portfolio analytics in a fast, elegant interface designed for mobile.\n\nTrack stocks, ETFs, mutual funds, options, forex, and cryptocurrencies across 50+ global exchanges. Real-time quotes update instantly, with pre-market and after-hours data included. Create unlimited watchlists, organize them by theme or strategy, and add custom price alerts for any threshold or percentage change. The app notifies you the moment your targets hit — no need to stare at charts all day.\n\nPortfolio tracking is where StockPulse truly shines. Connect your brokerage accounts securely or enter holdings manually. The app calculates your total net worth, asset allocation, sector exposure, and risk metrics in real time. Dividend tracking shows upcoming payments and annual yield. Performance charts compare your returns against major indices, and the tax lot manager helps you optimize capital gains.\n\nThe news feed curates articles from trusted sources including Bloomberg, Reuters, and the Wall Street Journal, filtered to your portfolio and watchlist. Earnings calendars, economic event alerts, and analyst ratings keep you informed. The community section lets you follow top investors, share ideas, and discuss market trends.\n\nTechnical analysis tools include candlestick charts, moving averages, RSI, MACD, and Bollinger Bands. The screener helps you discover new opportunities based on fundamentals or technical criteria. Educational content from investing basics to advanced options strategies helps you learn as you earn.\n\nWith bank-level security, biometric login, and no commission or trading fees, StockPulse Market Watch is the smartest way to stay connected to the markets — anytime, anywhere.",
+    "size": 51.0,
+    "reviews": 1780,
+    "ratingAvg": 4.5,
+    "downloads": 95000,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 130 },
+      { "name": "4 star", "count": 550 },
+      { "name": "5 star", "count": 1000 }
+    ],
+    "comments": [
+      { "user": "Warren B.", "rating": 5, "text": "Portfolio analytics are as good as my desktop platform. The tax lot manager alone is worth it." },
+      { "user": "Elena T.", "rating": 4, "text": "Real-time quotes are fast and reliable. News curation is smart and relevant to my holdings." },
+      { "user": "Raj P.", "rating": 5, "text": "The screener helped me find three great dividend stocks. My passive income is growing nicely." },
+      { "user": "Monique D.", "rating": 5, "text": "Finally a stock app that supports crypto alongside traditional investments. All in one place." },
+      { "user": "Steve K.", "rating": 2, "text": "Price alerts sometimes arrive late. By the time I got the notification the opportunity had passed." }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d",
+    "title": "MediRemind Pill Tracker",
+    "companyName": "HealthFirst",
+    "id": 25,
+    "description": "MediRemind Pill Tracker is the simple, reliable solution for managing medications — for yourself or a loved one. Missed doses can have serious consequences, and MediRemind ensures you never forget again. With smart reminders, refill alerts, and a clean, easy-to-read interface designed for all ages, this app has become a trusted companion for over 45,000 users.\n\nAdd your medications with dosage, frequency, and instructions. MediRemind supports complex schedules including multiple daily doses, every-other-day, weekly, monthly, and as-needed medications. Custom reminders can be set for specific times, before or after meals, or at bedtime. The app sends push notifications, and you can also enable text or email reminders for extra assurance.\n\nLog each dose with one tap, and MediRemind tracks your adherence over time. Detailed reports show your compliance rate, missed doses, and patterns — valuable information to share with your doctor or pharmacist. The app also supports PRN (as-needed) medications with a log of when and why you took them.\n\nRefill alerts notify you when your supply is running low based on your dosage schedule, so you never run out unexpectedly. The pill identifier feature helps you confirm medications by color, shape, and imprint. Drug interaction warnings flag potential conflicts when you add new medications, and the built-in pharmacy finder locates nearby options with your insurance accepted.\n\nFamily features let you manage medications for children or elderly parents from your own phone, with separate profiles and reminders. The caregiver dashboard shows all profiles at a glance. Emergency medical information can be accessed from the lock screen if needed.\n\nMediRemind prioritizes your privacy with encrypted data storage and no third-party sharing. No ads, no data selling. Just a dependable tool that helps you stay healthy and independent.",
+    "size": 21.3,
+    "reviews": 890,
+    "ratingAvg": 4.8,
+    "downloads": 45000,
+    "ratings": [
+      { "name": "1 star", "count": 10 },
+      { "name": "2 star", "count": 10 },
+      { "name": "3 star", "count": 30 },
+      { "name": "4 star", "count": 140 },
+      { "name": "5 star", "count": 700 }
+    ],
+    "comments": [
+      { "user": "Harold G.", "rating": 5, "text": "I manage seven medications and this app keeps me on track. My doctor was impressed with the adherence report." },
+      { "user": "Maria C.", "rating": 5, "text": "Managing my mother's medications from my phone gives me peace of mind. The caregiver mode is excellent." },
+      { "user": "David N.", "rating": 4, "text": "Simple and effective. The pill identifier helped me sort out a confusing pharmacy mix-up." },
+      { "user": "Eleanor W.", "rating": 5, "text": "At 82 I'm not great with technology but this app is truly easy to use. Large text option helps a lot." },
+      { "user": "Jason T.", "rating": 3, "text": "Works well but I wish it synced with pharmacy apps to auto-update refill status. Minor inconvenience." }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1",
+    "title": "CineCritique Movie Guide",
+    "companyName": "FilmBuff Media",
+    "id": 26,
+    "description": "CineCritique Movie Guide is the ultimate companion for film lovers and TV enthusiasts. With a massive database covering over 500,000 movies, series, documentaries, and shorts from every era and country, CineCritique helps you decide what to watch, where to watch it, and what to watch next. No more endless scrolling through streaming services — find your perfect movie in seconds.\n\nDiscover films through personalized recommendations based on your ratings, watch history, and mood. The app's advanced algorithm considers genre, director, actors, themes, and critical reception to suggest titles you'll genuinely enjoy. Curated collections from professional critics and fellow film buffs highlight hidden gems, cult classics, Oscar winners, and genre deep cuts.\n\nEach film page includes trailers, cast and crew details, runtime, age ratings, and reviews from both critics and users. The \"Where to Watch\" feature checks all major streaming services — Netflix, Hulu, Disney+, HBO Max, Amazon Prime, and more — and tells you exactly which platform has it, whether it's free, rentable, or subscription-only. Price comparison across platforms saves you money.\n\nTrack everything you watch with your personal diary. Rate films, write reviews, mark favorites, and build custom lists. The TV tracker follows episode progress across series, notifying you when new episodes air. The movie night planner lets you create a watchlist with friends and vote on what to see together.\n\nAdditional features include showtimes at nearby theaters with ticket purchasing, red carpet coverage and awards season predictions, and a film festival calendar. The community forum hosts lively debates, and the quote game tests your movie knowledge. Whether you're a casual viewer or a hardcore cinephile, CineCritique Movie Guide elevates your viewing experience.",
+    "size": 40.2,
+    "reviews": 1450,
+    "ratingAvg": 4.4,
+    "downloads": 72000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 750 }
+    ],
+    "comments": [
+      { "user": "Quentin F.", "rating": 5, "text": "The 'Where to Watch' feature ended my frustration of searching across five apps. Total time saver." },
+      { "user": "Lila M.", "rating": 4, "text": "Great for tracking TV shows. The episode notifications keep me current on all my series." },
+      { "user": "Oscar R.", "rating": 5, "text": "Discovered so many international films I'd never have found otherwise. The curation is excellent." },
+      { "user": "Fiona H.", "rating": 5, "text": "Movie night planner saved my friend group from endless 'what should we watch' debates. Brilliant." },
+      { "user": "Kai S.", "rating": 3, "text": "Good app but some older and obscure films have incomplete data. Needs more database coverage." }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475",
+    "title": "SmartHome Control Panel",
+    "companyName": "IoT Innovations",
+    "id": 27,
+    "description": "SmartHome Control Panel is the central command center for your connected home. Control lights, thermostats, security cameras, door locks, speakers, and hundreds of other smart devices from one beautiful, intuitive app — no matter which brands you own. With support for over 10,000 devices from 200+ manufacturers, SmartHome unifies your entire smart home ecosystem.\n\nSetup is effortless. The app automatically discovers devices on your Wi-Fi network and walks you through pairing step by step. Organize devices by room, create custom groups, and set scenes that control multiple devices with a single tap. \"Movie Night\" dims the lights, closes the blinds, and turns on the soundbar. \"Good Morning\" raises the thermostat, starts the coffee maker, and reads your calendar aloud.\n\nAutomations let you create if-this-then-that routines without any coding. Turn on porch lights at sunset. Lock doors when everyone leaves. Send a notification if the garage door is left open. The automation builder supports conditions based on time, location, device status, weather, and more. Voice control works with Alexa, Google Assistant, and Siri Shortcuts.\n\nEnergy monitoring tracks real-time and historical usage for connected devices, helping you identify energy hogs and reduce your bill. The security center shows live camera feeds, records motion events, and arms or disarms your system remotely. Smart lock management lets you create temporary access codes for guests, cleaners, or delivery drivers.\n\nThe app works locally when the internet is down and syncs quickly when connectivity returns. Multi-user support with role-based permissions means everyone in the household gets the right level of access. With a clean, modern interface and reliable performance, SmartHome Control Panel makes your home smarter, safer, and more efficient.",
+    "size": 60.5,
+    "reviews": 2100,
+    "ratingAvg": 4.2,
+    "downloads": 98000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 250 },
+      { "name": "4 star", "count": 700 },
+      { "name": "5 star", "count": 900 }
+    ],
+    "comments": [
+      { "user": "Victor H.", "rating": 5, "text": "Controls my Philips Hue, Nest, Ring, and Sonos all in one place. Finally no more app juggling." },
+      { "user": "Paula M.", "rating": 4, "text": "Automations are powerful and easy to set up. Wish there were more pre-made templates for beginners." },
+      { "user": "Darnell W.", "rating": 5, "text": "Energy monitoring showed me my old freezer was costing a fortune. Paid for itself in one month." },
+      { "user": "Ines G.", "rating": 2, "text": "Setup was a nightmare with my older devices. Compatibility list needs to be more accurate." },
+      { "user": "Arthur P.", "rating": 5, "text": "Guest access codes for the cleaner and dog walker are so convenient. Security is excellent." }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf",
+    "title": "PetCare Companion",
+    "companyName": "AnimalHealth Apps",
+    "id": 28,
+    "description": "PetCare Companion is the all-in-one health and wellness app for pet parents who want the best for their furry, feathered, or scaly family members. Whether you have a dog, cat, bird, rabbit, reptile, or fish, this app helps you track vaccinations, schedule vet visits, monitor health, and never miss an important care task.\n\nCreate detailed profiles for each pet with breed, age, weight, microchip number, insurance details, and photos. The vaccination tracker records all shots with due dates and sends reminders when boosters are approaching. Medication schedules, flea and tick treatments, deworming, and heartworm preventatives are all managed with customizable reminders.\n\nHealth monitoring features let you log symptoms, appetite changes, energy levels, and bathroom habits. The app creates a timeline of your pet's health history that you can share with your veterinarian. The symptom checker offers guidance on whether a vet visit is urgent, and the pet first aid guide covers emergencies from choking to heatstroke.\n\nVet visit management includes appointment scheduling, reminders, and a place to store visit summaries, diagnoses, and treatment plans. The document vault holds vaccination records, test results, and insurance claims. The built-in vet finder locates nearby clinics, emergency hospitals, and specialists with ratings and reviews.\n\nAdditional features include weight tracking with healthy range charts, a food portion calculator based on your pet's age and activity level, and a pet sitter guide you can share with caregivers. The community section connects you with other pet owners for advice and support.\n\nWith data backup, multi-pet support, and a clean, friendly interface, PetCare Companion gives you confidence that your pet's health is always in good hands — yours.",
+    "size": 36.4,
+    "reviews": 640,
+    "ratingAvg": 4.6,
+    "downloads": 31000,
+    "ratings": [
+      { "name": "1 star", "count": 15 },
+      { "name": "2 star", "count": 10 },
+      { "name": "3 star", "count": 45 },
+      { "name": "4 star", "count": 170 },
+      { "name": "5 star", "count": 400 }
+    ],
+    "comments": [
+      { "user": "Bella R.", "rating": 5, "text": "Managing three pets' medications was chaotic until I found this app. Now everything is organized and on time." },
+      { "user": "Carlos M.", "rating": 4, "text": "The health timeline is invaluable at vet visits. My vet can see everything at a glance." },
+      { "user": "Hannah T.", "rating": 5, "text": "The first aid guide helped me when my dog ate chocolate. Knew exactly what to do and stayed calm." },
+      { "user": "Raj K.", "rating": 5, "text": "Weight tracking caught my cat's gradual weight loss early. Vet said it could have been serious if missed." },
+      { "user": "Diane F.", "rating": 3, "text": "Good app but the symptom checker is overly cautious. Sends you to the vet for every little thing." }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b",
+    "title": "Marathon Training Coach",
+    "companyName": "RunnersWorld Inc.",
+    "id": 29,
+    "description": "Marathon Training Coach is the complete training system for runners of all levels — from first-time 5K finishers to seasoned marathoners chasing a personal best. Developed with input from elite coaches and sports scientists, this app builds a personalized training plan around your race date, current fitness, and goals, then guides you through every run with GPS pacing, real-time audio cues, and expert coaching tips.\n\nThe app supports race distances from 5K to ultramarathon, with training plans ranging from 8 to 24 weeks. Each plan includes a balanced mix of easy runs, tempo runs, interval sessions, long runs, cross-training, and rest days. Workouts are explained in detail so you understand the purpose of every session. Adaptive scheduling adjusts your plan if you miss a run or need extra recovery.\n\nGPS tracking is accurate and battery-efficient. See your pace, distance, elevation, heart rate, and cadence in real time. Audio cues keep you informed without looking at your phone — perfect for interval workouts. The app syncs with Apple Watch, Garmin, and other wearables, and imports data from Strava automatically.\n\nInjury prevention is a core focus. The app monitors training load and warns you when you're increasing mileage too quickly. Pre-run warm-up and post-run stretching routines are built into every session. The strength training module includes runner-specific exercises to build resilience and prevent common injuries like runner's knee and plantar fasciitis.\n\nRace day preparation includes pacing strategy, nutrition and hydration planning, and logistics checklists. The community section connects you with other runners training for the same race. After your race, the app analyzes your performance and suggests areas for improvement.\n\nWhether you're chasing a Boston qualifier or just want to cross your first finish line, Marathon Training Coach gives you the structure, motivation, and expertise to get there.",
+    "size": 47.9,
+    "reviews": 1120,
+    "ratingAvg": 4.7,
+    "downloads": 56000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 10 },
+      { "name": "3 star", "count": 60 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 730 }
+    ],
+    "comments": [
+      { "user": "Michelle O.", "rating": 5, "text": "Went from couch to half marathon in 16 weeks. The adaptive plan kept me from overtraining. Incredible." },
+      { "user": "Andre B.", "rating": 4, "text": "GPS accuracy is excellent. The audio interval cues mean I don't look at my watch during speed work." },
+      { "user": "Simone K.", "rating": 5, "text": "The injury prevention alerts saved my training block. Warned me before I developed shin splints." },
+      { "user": "Terrence W.", "rating": 5, "text": "Pacing strategy for my marathon was spot on. Negative split and a 12-minute PR. Thank you!" },
+      { "user": "Laura J.", "rating": 3, "text": "Great plans but the strength module needs more variety. Same exercises get repetitive after a while." }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1488646953014-85cb44e25828",
+    "title": "LocalEvent Finder",
+    "companyName": "CityLife Media",
+    "id": 30,
+    "description": "LocalEvent Finder is your go-to guide for discovering everything happening in your city and beyond. Concerts, festivals, art exhibitions, pop-up markets, workshops, networking mixers, food tours, comedy shows, sports events, and community meetups — if it's happening, you'll find it here. Say goodbye to boring weekends and FOMO forever.\n\nThe app uses your location to surface events happening near you today, this weekend, or in the coming month. Browse by category, date, price, or distance. The smart recommendation engine learns your interests from what you attend, save, and share, then suggests events you'll genuinely love — from underground indie shows to major stadium tours.\n\nEach event listing includes full details: date, time, venue, address, ticket prices, age restrictions, and a map with directions. Buy tickets directly through the app or get redirected to official sellers. The calendar integration adds events to your schedule with one tap, and reminders ensure you never miss a show you've been looking forward to.\n\nSocial features make going out even better. See which events your friends are interested in, invite them to join you, and coordinate meetups in the event chat. The group planning tool lets everyone vote on options and split costs for group tickets.\n\nFor organizers, LocalEvent Finder offers powerful promotion tools to reach the right audience. Verified organizers can sell tickets, manage guest lists, and track attendance in real time.\n\nAdditional features include artist and venue follow options for instant updates, a saved events collection, and a weekly digest email highlighting the best upcoming happenings. The app covers major cities across North America, Europe, Asia, and Australia, with new locations added regularly.\n\nWhether you're a local looking for new experiences or a visitor wanting to soak up the local culture, LocalEvent Finder is your key to an exciting, eventful life.",
+    "size": 30.1,
+    "reviews": 830,
+    "ratingAvg": 4.3,
+    "downloads": 41000,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 90 },
+      { "name": "4 star", "count": 320 },
+      { "name": "5 star", "count": 350 }
+    ],
+    "comments": [
+      { "user": "Nina V.", "rating": 5, "text": "Found an amazing jazz festival through this app that I'd never heard of. Best weekend of my summer." },
+      { "user": "Jared M.", "rating": 4, "text": "Great for discovering local events. The friend coordination feature makes planning nights out so easy." },
+      { "user": "Priya D.", "rating": 5, "text": "The weekly digest email is perfectly curated. I always have something fun to look forward to." },
+      { "user": "Sam L.", "rating": 3, "text": "Good app but coverage in smaller cities is spotty. Works great in major metros though." },
+      { "user": "Rosa G.", "rating": 5, "text": "As a visitor to a new city, this app helped me experience local culture beyond the tourist traps." }
+    ]
+  }
+]
